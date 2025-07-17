@@ -73,6 +73,6 @@ startBtn.addEventListener('click', () => {
     clearInterval(intervalId);
     intervalId = null;
     startBtn.textContent = '計測開始';
-    statusEl.textContent = '計測停止';
+    statusEl.textContent = '計測停止中';
   }
 });
