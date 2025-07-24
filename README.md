@@ -5,6 +5,3 @@
 
 使用ライブラリ
 > Chart.js
-
-実行
-> npm run browser-sync
